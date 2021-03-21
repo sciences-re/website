@@ -12,3 +12,12 @@ jobs:
         BUILD_ONLY: true
     - name: List results
       run: ls -alh
+    - name: Push files to server
+      env:
+        dest: 'www@sciences.re:/home/www/sciences.re'
+      run: |
+        echo "${{secrets.WEBSITE_DEPLOY_PRIVATE_KEY}}" > deploy_key
+        chmod 600 ./deploy_key
+        rsync -chav --delete \
+        -e 'ssh -i ./deploy_key -o StrictHostKeyChecking=no' \
+        ./public/ ${{env.dest}}
