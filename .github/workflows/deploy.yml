@@ -1,0 +1,14 @@
+on: push
+name: Build and deploy on push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: shalzz/zola-deploy-action
+      uses: shalzz/zola-deploy-action@master
+      env:
+        BUILD_DIR: .
+        BUILD_ONLY: true
+    - name: List results
+      run: ls -alh
