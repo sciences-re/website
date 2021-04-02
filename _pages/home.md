@@ -17,13 +17,13 @@ feature_row:
 
 # Pourquoi ?
 
- <div class="row">
-  <div class="column">
-    <p align="justify">La communauté scientifique et académique est morcelée dans de nombreuses structures et communautés. Le partage d'informations, la collaboration scientifique et la création de connaissance commune n'en est que plus compliquée.</p>
-    <p align="justify">Ce projet a pour but de mettre à disposition un espace d'échange à visée scientifique, permettant la collaboration et la découverte, via une certaine centralisation de l'information. À minima, ce projet souhaite indexer les différents canaux et moyens de communications utilisés dans les riches et nombreuses communautés scientifiques.</p>
+ <div class="wrapper-custom">
+  <div class="content">
+    <p>La communauté scientifique et académique est morcelée dans de nombreuses structures et communautés. Le partage d'informations, la collaboration scientifique et la création de connaissance commune n'en est que plus compliquée.</p>
+    <p>Ce projet a pour but de mettre à disposition un espace d'échange à visée scientifique, permettant la collaboration et la découverte, via une certaine centralisation de l'information. À minima, ce projet souhaite indexer les différents canaux et moyens de communications utilisés dans les riches et nombreuses communautés scientifiques.</p>
   </div>
-  <div class="small-column">
-    <img src="/assets/images/atlas.webp" height="315" width="315" class="align-right"/>
+  <div class="image">
+    <img src="/assets/images/atlas.webp" height="315" width="315"/>
   </div>
 </div> 
 
@@ -33,19 +33,19 @@ Deux services sont pour l'instant mis à disposition, un *wiki* et un *forum*.
 
 ## Wiki
 
- <div class="row">
-  <div class="column">
-    <p align="justify">
+ <div class="wrapper-custom">
+  <div class="content">
+    <p>
       Le wiki est un espace de documentation vivant, et peut être modifié par toute personne possédant un compte sur la plateforme pour ajouter, modifier, mettre à jour son contenu. Son but est de servir de base de connaissances, maintenue à jour dans la durée, listant par exemple les différentes mailing-lists utilisées dans les différentes communautés.
     </p>
-    <p align="justify">
+    <p>
       L'ensemble du wiki est public, et l'édition <em>anonyme</em> est elle aussi possible, si vous ne souhaitez pas vous créer un compte sur la plateforme.
     </p>
     <p>
       <a class="btn btn--info" href="https://wiki.sciences.re/">Explorer le wiki</a>
     </p>
   </div>
-  <div class="small-column">
+  <div class="image">
     <img src="/assets/images/puzzle.webp" height="315" width="315" class="align-right"/>
   </div>
 </div> 
@@ -53,16 +53,16 @@ Deux services sont pour l'instant mis à disposition, un *wiki* et un *forum*.
 
 ## Forum
 
- <div class="row">
-  <div class="column">
-    <p align="justify">
+ <div class="wrapper-custom">
+  <div class="content">
+    <p>
       Le forum est un espace de discussion et d'échange, asynchrone, permettant de partaguer des informations d'une manière analogue au fonctionnement d'une liste de diffusion ou d'une liste de discussion. Il permet cependant d'ajouter images, code, formules mathématiques, supporte la modifications de messages et la mise en place d'étiquettes permettant de mieux organiser l'information. À ce titre, il est très supérieur au fonctionnement de listes de discussion ou de diffusion classiques.
     </p>
     <p>
       <a class="btn btn--info" href="https://forum.sciences.re/">Explorer le forum</a>
     </p>
   </div>
-  <div class="small-column">
+  <div class="image">
     <img src="/assets/images/sciences.webp" height="315" width="315" class="align-right"/>
   </div>
 </div> 
