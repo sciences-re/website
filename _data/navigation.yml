@@ -7,5 +7,3 @@ main:
     url: https://forum.sciences.re/
   - title: "Connexion"
     url: https://auth.sciences.re/auth/realms/master/account
-  - title: "Mentions Légales et CGUs"
-    url: /mentions-légales/

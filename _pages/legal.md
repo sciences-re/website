@@ -4,16 +4,6 @@ date: 2021-02-14 11:10:46 +0100
 permalink: /mentions-légales/
 ---
 
-# Mentions Légales
-
-Pour nous contacter : [contact@sciences.re](mailto:contact@sciences.re)
-
-## Hébergeur
-
-- **Raison Sociale** : SCALEWAY SAS
-- **Adresse** : BP 438 75366 PARIS CEDEX 08 FRANCE
-- **Téléphone** : +33 (0)1 84 13 00 00
-
 # Conditions Générales d'Utilisation des services Sciences.Re
 
 ## Préambule
@@ -36,8 +26,28 @@ Sciences.Re s'engage à respecter les principes suivants:
 - Nous ne partagerons pas d'informations vous concernant avec des services tiers;
 - L'ensemble de l'infrastructure technique permettant la mise en place des services est documentée en ligne;
 
-## Conditions spécifiques pour le Wiki
-En publiant vos contributions au Wiki, vous acceptez de les placer irrévocablement sous licence CC BY-SA 4.0. Vous acceptez d’être crédité via un hyperlien ou une URL vers l’article auquel vous contribuez.
+## Conditions d'utilisation des services
+
+- L’utilisation des services se fait à vos propres risques, et les services sont fournis tels quels.
+- Vous êtes responsable de la sécurité de votre compte et de votre mot de passe.
+- Nous ne pouvons pas être tenus responsable des pertes ou dommages résultant de votre non-respect de cette obligation de sécurité.
+- Vous êtes responsable de tout contenu affiché et de l’activité qui se produit sous votre compte.
+- Vous ne pouvez pas utiliser le service à des fins illégales ou non autorisées.
+- Vous ne devez pas transgresser les lois de votre pays.
+- Vous comprenez que la mise en ligne des services ainsi que de votre contenu implique une transmission (en clair ou chiffrée, suivant les services) sur divers réseaux.
+- Vous ne devez pas transmettre des vers, des virus ou tout autre code de nature malveillante.
+
+Nous ne garantissons pas que:
+
+- les services répondront à vos besoins spécifiques,
+- les service seront ininterrompu ou exempts de bugs,
+- que les erreurs dans le service seront corrigées.
+
+**Note** : Une partie de ces conditions générales d'utilisation est basée sur les [conditions générales d'utilisation de Framasoft](https://framasoft.org/fr/legals/), et sont diffusées sous licence [Creative Commons Attribution Share-Alike 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
+
+### Conditions spécifiques pour le Wiki et le Forum
+
+En publiant vos contributions au Wiki et au Forum, vous acceptez de les placer irrévocablement sous licence CC BY-SA 4.0. Vous acceptez d’être crédité via un hyperlien ou une URL vers l’article ou le sujet auquel vous contribuez.
 
 # Code de conduite
 
@@ -72,3 +82,13 @@ Les actions et comportements suivants sont jugés inacceptables :
 ## Licence
 
 Ce code de conduite a été inspiré par le [code de conduite du projet Inkscape](https://inkscape.org/community/coc/), et est diffusé sous licence [Creative Commons Attribution Share-Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+# Mentions Légales
+
+Pour nous contacter : [contact@sciences.re](mailto:contact@sciences.re)
+
+## Hébergeur
+
+- **Raison Sociale** : SCALEWAY SAS
+- **Adresse** : BP 438 75366 PARIS CEDEX 08 FRANCE
+- **Téléphone** : +33 (0)1 84 13 00 00
