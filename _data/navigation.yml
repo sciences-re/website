@@ -1,6 +1,6 @@
 main:
-  - title: "Archives"
-    url: /archives/
+  - title: "Postes"
+    url: /postes/
   - title: "Wiki"
     url: https://wiki.sciences.re/
   - title: "Forum"
