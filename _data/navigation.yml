@@ -3,6 +3,8 @@ main:
     url: /postes/
   - title: "Wiki"
     url: https://wiki.sciences.re/
+  - title: "Chat"
+    url: https://chat.sciences.re/
   - title: "Forum"
     url: https://forum.sciences.re/
   - title: "Connexion"

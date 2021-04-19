@@ -29,7 +29,7 @@ feature_row:
 
 # Comment ?
 
-Deux services sont pour l'instant mis à disposition, un *wiki* et un *forum*.
+Plusieurs services sont pour l'instant mis à disposition, un *wiki*, un *forum*, un *chat* et un *moteur de recherche de postes*.
 
 ## Wiki
 
@@ -56,7 +56,7 @@ Deux services sont pour l'instant mis à disposition, un *wiki* et un *forum*.
  <div class="wrapper-custom">
   <div class="content">
     <p>
-      Le forum est un espace de discussion et d'échange, asynchrone, permettant de partaguer des informations d'une manière analogue au fonctionnement d'une liste de diffusion ou d'une liste de discussion. Il permet cependant d'ajouter images, code, formules mathématiques, supporte la modifications de messages et la mise en place d'étiquettes permettant de mieux organiser l'information. À ce titre, il est très supérieur au fonctionnement de listes de discussion ou de diffusion classiques.
+      Le forum est un espace de discussion et d'échange, asynchrone, permettant de partager des informations d'une manière analogue au fonctionnement d'une liste de diffusion ou d'une liste de discussion. Il permet cependant d'ajouter images, code, formules mathématiques, supporte la modifications de messages et la mise en place d'étiquettes permettant de mieux organiser l'information. À ce titre, il est très supérieur au fonctionnement de listes de discussion ou de diffusion classiques.
     </p>
     <p>
       <a class="btn btn--info" href="https://forum.sciences.re/">Explorer le forum</a>
@@ -64,6 +64,41 @@ Deux services sont pour l'instant mis à disposition, un *wiki* et un *forum*.
   </div>
   <div class="image">
     <img src="/assets/images/sciences.webp" height="315" width="315" class="align-right"/>
+  </div>
+</div> 
+
+
+## Chat
+
+ <div class="wrapper-custom">
+  <div class="content">
+    <p>
+      Le chat est un espace de discussion et d'échange <b>synchrone</b> permettant de converser en direct, en groupes publics (canaux thématiques) ou privés. Il supporte l'envoi de médias (documents, images, code, formules), supporte la modifications de messages, et des fonctionnalités de vidéo-conférence à sont intégrées.
+    </p>
+    <p>
+      <a class="btn btn--info" href="https://chat.sciences.re/">Utiliser le chat</a>
+    </p>
+  </div>
+  <div class="image">
+    <img src="/assets/images/chat.webp" height="315" width="315" class="align-right"/>
+    <p class="align-right small">Illustration: Molly Fuller Abbott <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0 </a></p>
+  </div>
+</div> 
+
+
+## Moteur de recherche de postes
+
+ <div class="wrapper-custom">
+  <div class="content">
+    <p>
+      Un moteur de recherche de postes publiés sur le portail Galaxie est disponible. Il permet d'effectuer des recherches dans les fiches de postes ainsi que dans les méta-données des postes (localisation, type de poste, thématique, section…), pour des postes de type ATER, PRAG/PRCE, MCF, PR.
+    </p>
+    <p>
+      <a class="btn btn--info" href="https://sciences.re/postes/">Rechercher un poste</a>
+    </p>
+  </div>
+  <div class="image">
+    <img src="/assets/images/postes.webp" height="315" width="315" class="align-right"/>
   </div>
 </div> 
 
@@ -77,7 +112,7 @@ La connexion aux différents services se fait par le biais d'un système d'authe
 
 Vous souhaitez rejoindre le projet, apporter un coup de main ? Venez nous en parler !
 
-Pour cela, il est possible d'utiliser l'adresse email [contact@sciences.re](mailto:contact@sciences.re) ou venir discuter dans notre chat, [accessible à cette adresse](https://kiwiirc.com/nextclient/irc.ulminfo.fr/sciences.re) (IRC, irc.ulminfo.fr, #Sciences.Re).
+Pour cela, il est possible d'utiliser l'adresse email [contact@sciences.re](mailto:contact@sciences.re) ou venir discuter dans notre chat, [accessible à cette adresse](https://chat.sciences.re/#/room/#accueil:sciences.re).
 
 # Actualités
 

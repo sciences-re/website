@@ -28,4 +28,9 @@
     padding: 10px;
     margin-left: auto;
     margin-righT: auto;
+    max-width: 315px;
+}
+
+.small {
+  font-size: xx-small;
 }
