@@ -101,17 +101,17 @@ feature_row:
   </div>
 </div> 
 
-## Inscription
+<!-- ## Inscription
 
 La connexion aux différents services se fait par le biais d'un système d'authentification centralisée et d'un compte unique.
 
-<a class="btn btn--info" href="https://auth.sciences.re/auth/realms/master/account">Inscription / Connexion</a>
+<a class="btn btn--info" href="https://auth.sciences.re/auth/realms/master/account">Inscription / Connexion</a> -->
 
 # Nous rejoindre
 
 Vous souhaitez rejoindre le projet, apporter un coup de main ? Venez nous en parler !
 
-Pour cela, il est possible d'utiliser l'adresse email [contact@sciences.re](mailto:contact@sciences.re) ou venir discuter dans notre chat, [accessible à cette adresse](https://chat.sciences.re/#/room/#accueil:sciences.re).
+Pour cela, il est possible d'utiliser l'adresse email [contact@sciences.re](mailto:contact@sciences.re). <!-- ou venir discuter dans notre chat, [accessible à cette adresse](https://chat.sciences.re/#/room/#accueil:sciences.re).-->
 
 # Actualités
 
