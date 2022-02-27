@@ -12,7 +12,6 @@ feature_row:
   - image_path: /assets/images/apprendre.webp
     alt: "… apprendre"
     title: "… apprendre"
-    excerpt: "Le LaBi héberge plusieurs outils (imprimantes 3D, CNC, électronique divers), et vous permet de vous former à leur utilisation par la pratique."
 ---
 
 # Pourquoi ?
@@ -29,7 +28,7 @@ feature_row:
 
 # Comment ?
 
-Plusieurs services sont pour l'instant mis à disposition, un *wiki*, un *forum*, un *chat* et un *moteur de recherche de postes*.
+<!-- Plusieurs services sont pour l'instant mis à disposition, un *wiki*, un *forum*, un *chat* et un *moteur de recherche de postes*.
 
 ## Wiki
 
@@ -83,7 +82,7 @@ Plusieurs services sont pour l'instant mis à disposition, un *wiki*, un *forum*
     <img src="/assets/images/chat.webp" height="315" width="315" class="align-right"/>
     <p class="align-right small">Illustration: Molly Fuller Abbott <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0 </a></p>
   </div>
-</div> 
+</div> -->
 
 
 ## Moteur de recherche de postes
