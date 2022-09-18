@@ -11,9 +11,9 @@ permalink: /mentions-légales/
 Les présentes conditions d'utilisation s'appliquent aux services en ligne fournis par Sciences.Re, dont la liste actuelle est:
 
 - **Site web** : [https://sciences.re/](https://sciences.re/)
-- **Wiki** : [https://wiki.sciences.re/](https://wiki.sciences.re/)
+<!--- **Wiki** : [https://wiki.sciences.re/](https://wiki.sciences.re/)
 - **Forum** : [https://forum.sciences.re](https://forum.sciences.re)
-- **Authentification** : [https://auth.sciences.re/](https://auth.sciences.re/)
+- **Authentification** : [https://auth.sciences.re/](https://auth.sciences.re/)-->
 
 En utilisant ces services, vous acceptez d'être lié par les conditions suivantes. Sciences.Re se réserve le droit de mettre à jour et modifier ces conditions à tout moment.
 
@@ -89,6 +89,7 @@ Pour nous contacter : [contact@sciences.re](mailto:contact@sciences.re)
 
 ## Hébergeur
 
-- **Raison Sociale** : SCALEWAY SAS
-- **Adresse** : BP 438 75366 PARIS CEDEX 08 FRANCE
-- **Téléphone** : +33 (0)1 84 13 00 00
+- **Raison Sociale** : Hetzner Online GmbH
+- **Adresse** : Industriestr. 25, 91710 Gunzenhausen, Germany
+- **Téléphone** : +49 9831505-0
+- **Email** : info@hetzner.com
