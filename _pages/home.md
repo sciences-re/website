@@ -28,7 +28,9 @@ feature_row:
 
 # Comment ?
 
-<!-- Plusieurs services sont pour l'instant mis à disposition, un *wiki*, un *forum*, un *chat* et un *moteur de recherche de postes*.
+Plusieurs services sont pour l'instant mis à disposition, un *serveur mastodon* et un *moteur de recherche de postes*.
+
+<!--
 
 ## Wiki
 
@@ -84,6 +86,22 @@ feature_row:
   </div>
 </div> -->
 
+## Serveur Mastodon
+
+ <div class="wrapper-custom">
+  <div class="content">
+    <p>
+      Un serveur mastodon, c'est-à-dire un serveur de <a href="https://fr.wikipedia.org/wiki/Microblog">microblogging</a> (un peu comme Twitter) est disponible. Il est destiné aux communautés liées à l'enseignement et à la recherche francophone, sans coloration thématique. Si vous travailler dans une université, un labo de recherche, un lycée, une prépa, une grande école, cette instance vous ouvre ses portes !
+    </p>
+    <p>
+      <a class="btn btn--info" href="https://social.sciences.re/">S'inscrire sur Mastodon</a>
+    </p>
+  </div>
+  <div class="image">
+    <img src="/assets/images/mastodon.webp" height="315" width="315" class="align-right"/>
+  </div>
+</div> 
+
 
 ## Moteur de recherche de postes
 
@@ -111,7 +129,7 @@ La connexion aux différents services se fait par le biais d'un système d'authe
 
 Vous souhaitez rejoindre le projet, apporter un coup de main ? Venez nous en parler !
 
-Pour cela, il est possible d'utiliser l'adresse email [contact@sciences.re](mailto:contact@sciences.re). <!-- ou venir discuter dans notre chat, [accessible à cette adresse](https://chat.sciences.re/#/room/#accueil:sciences.re).-->
+Pour cela, il est possible d'utiliser l'adresse email [contact@sciences.re](mailto:contact@sciences.re) ou venir discuter sur un chat en temps réel (qui n'est pas hébergé par Sciences.Re), [accessible à cette adresse](https://kiwiirc.com/nextclient/irc.ulminfo.fr:+6666/#sciences.re).
 
 # Actualités
 
