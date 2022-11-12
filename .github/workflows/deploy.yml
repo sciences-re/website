@@ -21,9 +21,11 @@ jobs:
     - name: Push files to server
       env:
         dest: 'www@sciences.re:/home/www/sciences.re'
+        postes: 'postes/'
       run: |
         echo "${{secrets.WEBSITE_DEPLOY_PRIVATE_KEY}}" > deploy_key
         chmod 600 ./deploy_key
         rsync -chav --delete \
         -e 'ssh -i ./deploy_key -o StrictHostKeyChecking=no -p 2102' \
-        ./build/ ${{env.dest}}
+        ./build/ ${{env.dest}} \
+        --exclude=${{env.postes}}
