@@ -163,7 +163,7 @@ When you use our services, we process the following information to provide our s
 - **Visibility:** Public
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
-    - Up to one day after their modification or deletion, in active databases
+    - Up to two days after their modification or deletion, in active databases
     - Up to one year after their modification or deletion, in intermediary archiving
     - Until the end of the contract, and up to one year from the day of the end of the contract, in intermediary archiving
 
@@ -290,7 +290,7 @@ When you use our services, we process the following information to provide our s
 - **Visibility:** Public for anyone with the link to the media, otherwise has the same visibility as the message to which it is attached
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
-    - Up to one day after their modification or deletion, in active databases
+    - Up to two days after their modification or deletion, in active databases
     - Up to one year after their modification or deletion, in intermediary archiving
     - Until the end of the contract, and up to one year from the day of the end of the contract, in intermediary archiving
 
