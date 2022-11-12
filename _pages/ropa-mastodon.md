@@ -466,6 +466,8 @@ In particular, we process:
 - Accounts timestamp of last activity
 - Moderation and Report Notifications, when they are shared with our local instance
 
+The processing legal basis is consent per Article 5 1.d of the GDPR, consent that must be obtained and managed by the user’s third-party platforms before its transmission to this server.
+
 # Definitions
 
 ## Personal Data
