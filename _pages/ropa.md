@@ -79,14 +79,6 @@ Hetzner Online GmbH is our server host and backup host.
 - **Recipients:** Sciences.Re, Hetzner Online GmbH
 - **Preservation Length:** 1 year from the day of the connection or creation of the content
 
-#### Communication
-
-- **Data Category:** Connection Data
-- **Concerned Data:** For each connection, their technical characteristics as well as the date, time and their duration, the data relating to additional services requested or used and their providers. Technical data enabling the identification of the recipient(s) of the communication, including the IP address assigned to the source of the connection and the associated port, the user's identification number, the identification number of the terminal.
-- **Legal Basis:** Legal Obligation, per [« Article R10-13 du Code des postes et des communications électroniques »](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044231067) and [« Article 1 du décret n° 2022-1327 du 17 octobre 2022 »](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000046437500)
-- **Recipients:** Sciences.Re, Hetzner Online GmbH
-- **Preservation Length:** 1 year from the day of the connection
-
 ### Other kind of processing
 
 #### Processing using data that you provide to us
