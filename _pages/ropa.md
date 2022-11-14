@@ -58,24 +58,24 @@ Hetzner Online GmbH is our server host and backup host.
 #### Account Creation
 
 - **Data Category:** Identity Data
-- **Concerned Data:** For each account creation, the username used, pseudonyms used, the data used to enable you to check or change your password and 2FA data, in their last updated version.
-- **Legal Basis:** Legal Obligation, per [« Article 3 du décret n° 2021-1362 du 20 octobre 2021 »](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000044228928)
+- **Concerned Data:** For each account creation, the username, the email and pseudonyms used, and the data enabling you to check or change your password and 2FA data, in their last updated version.
+- **Legal Basis:** Legal Obligation, per [« Article 2 du décret n° 2021-1362 du 20 octobre 2021 »](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000044228926) and [« Article 3 du décret n° 2021-1362 du 20 octobre 2021 »](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000044228928), as we effectively process these informations for the contractual necessity and for the access to the services.
 - **Recipients:** Sciences.Re, Hetzner Online GmbH
-- **Preservation Length:** 1 year from the closing of the account
+- **Preservation Length:** 5 years from the closing of the account / end of the contract for the email (article 2), or 1 year from the closing of the account / end of the contract for the email for the rest of the data.
 
 #### Content Creation
 
 - **Data Category:** Connection Data
-- **Concerned Data:** For each content creation operation, the identifier of the connection, including the IP address assigned to the source of the connection and the associated port, the types of protocols used for the connection to the service and for the transfer of content.
-- **Legal Basis:** Legal Obligation, per [« Article 5 du décret n° 2021-1362 du 20 octobre 2021 »](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000044228932)
+- **Concerned Data:** For each content creation operation, the identifier of the connection at the origin of the communication and the used protocols for the connection and transfer of content.
+- **Legal Basis:** Legal Obligation, per [« Article 5 du décret n° 2021-1362 du 20 octobre 2021 »](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000044228932), as we effectively process these informations for the contractual necessity and for the access to the services.
 - **Recipients:** Sciences.Re, Hetzner Online GmbH
 - **Preservation Length:** 1 year from the day of the connection or creation of the content
 
 #### Content Creation (bis)
 
 - **Data Category:** Connection Data
-- **Concerned Data:** For each content creation operation, the identifier assigned by the information system to the content object, the nature of the operation, dates and time of the operation, identifier used by the author of the operation when provided by the author of the operation.
-- **Legal Basis:** Legal Obligation, per [« Article 6 du décret n° 2021-1362 du 20 octobre 2021 »](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044230065) and [« Article 1 du décret n° 2022-1327 du 17 octobre 2022 »](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000046437500)
+- **Concerned Data:** For each content creation operation, the identifier assigned by the information system to the content object, the nature of the operation (creation, deletion, modification), dates and time of the operation, identifier used by the author of the operation when provided by the author of the operation.
+- **Legal Basis:** Legal Obligation, per [« Article 6 du décret n° 2021-1362 du 20 octobre 2021 »](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044230065) and [« Article 1 du décret n° 2022-1327 du 17 octobre 2022 »](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000046437500), as we effectively process these informations for the contractual necessity and for the access to the services.
 - **Recipients:** Sciences.Re, Hetzner Online GmbH
 - **Preservation Length:** 1 year from the day of the connection or creation of the content
 
