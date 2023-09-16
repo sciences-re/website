@@ -23,16 +23,16 @@ Last updated: {{ page.last_modified_at | date : "%d/%m/%Y à %H:%M" }}.
         - Address: 2a rue Jean-François de la Pérouse, Massy (93000), France
         - Email: [remy@grunblatt.org](mailto:remy@grunblatt.org)
 
-### Gandi
+### Infomaniak
 
-Gandi is our email provider for emails sent to and from `@sciences.re` email addresses. As such, they have access to the email contents exchanged by the service and the users.
+Infomaniak is our registrar and email provider for emails sent to and from `@sciences.re` email addresses. As such, they have access to the email contents exchanged by the service and the users.
 
 - Actor Type: Processor, Recipient
-- Name: Gandi
-- Form: Société par Actions Simplifiée
-- Address: 63-65 boulevard Masséna, Paris (75013), France
+- Name: Infomaniak
+- Form: Société Anonyme
+- Address:  Infomaniak Network SA, Rue Eugène Marziano 25, 1227 Les Acacias (GE), Suisse
 - Additional Information:
-    - Numéro RCS: 423093459
+    - Numéro IDE : CHE-103.167.648
 
 ### Hetzner Online GmbH
 
@@ -92,7 +92,7 @@ To use our services, you must have an account, and to create an account you must
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Gandi, Fediverse peers, Public
+- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak, Fediverse peers, Public
 - **Visibility:** Public
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -119,7 +119,7 @@ To use our services, you must have an account, and to create an account you must
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** No
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Gandi
+- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak
 - **Visibility:** Private
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -166,7 +166,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** No
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Gandi
+- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak
 - **Visibility:** Private
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -178,7 +178,7 @@ When you use our services, we process the following information to provide our s
 - **Data Category:** Application Information
 - **Concerned Data:** Name, Website, Redirection URLs, Permissions, Secrets, Token, ID of the Applications
 - **Legal Basis:** Contractual necessity
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Gandi, Fediverse Peers, Public
+- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak, Fediverse Peers, Public
 - **Visibility:** Public or Limited, depending on the use of the Application
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
@@ -194,7 +194,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Gandi, Public, Fediverse peers
+- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak, Public, Fediverse peers
 - **Visibility:** Private, but the Name of the application used to post messages has the same visibility as the messages
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -208,7 +208,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** No
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Gandi
+- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak
 - **Visibility:** Private
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -222,7 +222,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Gandi, Hetzner Online GmbH, Fediverse peers, Public
+- **Recipients:** Sciences.Re, Infomaniak, Hetzner Online GmbH, Fediverse peers, Public
 - **Visibility:** Public
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -236,7 +236,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Gandi, Hetzner Online GmbH, Fediverse peers, Public
+- **Recipients:** Sciences.Re, Infomaniak, Hetzner Online GmbH, Fediverse peers, Public
 - **Visibility:** Limited: Public, but does not appear in federated or timeline feeds
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -250,7 +250,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Gandi, Hetzner Online GmbH, Fediverse peers of the followers
+- **Recipients:** Sciences.Re, Infomaniak, Hetzner Online GmbH, Fediverse peers of the followers
 - **Visibility:** Limited: Only visible to your followers
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -293,7 +293,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Gandi, Fediverse peers, Public
+- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak, Fediverse peers, Public
 - **Visibility:** Public or Private, depending on the user preferences. The followers total count is always public.
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -307,7 +307,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Gandi, Fediverse peers, Public
+- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak, Fediverse peers, Public
 - **Visibility:** Public or Private, depending on the user preferences. The following total count is always public. Followed users are notified when you follow them.
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -363,7 +363,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Gandi, Fediverse peers
+- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak, Fediverse peers
 - **Visibility:** Public: Boosted messages are public. Each author whose message is boosted receives a notification about who bosted the message. The boost total count on a message has the same visibility as the message.
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -392,7 +392,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** No
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Gandi
+- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak
 - **Visibility:** Private
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
