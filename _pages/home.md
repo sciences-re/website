@@ -91,7 +91,7 @@ Plusieurs services sont pour l'instant mis à disposition, un *serveur mastodon*
  <div class="wrapper-custom">
   <div class="content">
     <p>
-      Un serveur mastodon, c'est-à-dire un serveur de <a href="https://fr.wikipedia.org/wiki/Microblog">microblogging</a> (un peu comme Twitter) est disponible. Il est destiné aux communautés liées à l'enseignement et à la recherche francophone, sans coloration thématique. Si vous travailler dans une université, un labo de recherche, un lycée, une prépa, une grande école, cette instance vous ouvre ses portes !
+      Un serveur mastodon, c'est-à-dire un serveur de <a href="https://fr.wikipedia.org/wiki/Microblog">microblogging</a> (un peu comme Twitter) est disponible. Il est destiné aux communautés liées à l'enseignement et à la recherche francophone, sans coloration thématique. Si vous travaillez dans une université, un labo de recherche, un lycée, une prépa, une grande école, cette instance vous ouvre ses portes !
     </p>
     <p>
       <a class="btn btn--info" href="https://social.sciences.re/">S'inscrire sur Mastodon</a>
