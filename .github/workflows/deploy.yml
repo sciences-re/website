@@ -26,6 +26,6 @@ jobs:
         echo "${{secrets.WEBSITE_DEPLOY_PRIVATE_KEY}}" > deploy_key
         chmod 600 ./deploy_key
         rsync -chav --delete \
-        -e 'ssh -i ./deploy_key -o StrictHostKeyChecking=no -p 2102' \
+        -e 'ssh -i ./deploy_key -o StrictHostKeyChecking=no' \
         ./build/ ${{env.dest}} \
         --exclude=${{env.postes}}
