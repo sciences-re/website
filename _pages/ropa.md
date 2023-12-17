@@ -20,7 +20,7 @@ Last updated: {{ page.last_modified_at | date : "%d/%m/%Y à %H:%M" }}.
 - Additional Information:
     - Representative:
         - Name: Rémy Grünblatt
-        - Address: 2a rue Jean-François de la Pérouse, Massy (93000), France
+        - Address: 23 avenue de la comtesse, Villiers-Le-Bâcle, 91190, France
         - Email: [remy@grunblatt.org](mailto:remy@grunblatt.org)
 
 ### Infomaniak
