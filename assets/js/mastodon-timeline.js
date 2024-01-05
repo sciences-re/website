@@ -621,13 +621,13 @@ MastodonApi.prototype.assambleToot = function (c, i) {
     '<div class="mt-toot-header">' +
     avatar +
     user +
-    timestamp +
     "</div>" +
     content +
     media.join("") +
     previewLink +
     poll +
     counterBar +
+    timestamp +
     "</article>";
 
   return toot;

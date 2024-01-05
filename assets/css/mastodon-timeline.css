@@ -71,7 +71,7 @@ html[data-theme="dark"] {
   text-decoration: underline;
 }
 .mt-body {
-  padding: 1rem clamp(0.25rem, 4vw, 1.5rem);
+  /* padding: 1rem clamp(0.25rem, 4vw, 1.5rem); */
   white-space: pre-wrap;
   word-wrap: break-word;
 }
@@ -133,10 +133,10 @@ html[data-theme="dark"] {
   overflow: hidden;
 }
 
-/* User name and date */
+/* User name */
 .mt-toot-header {
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   align-items: flex-start;
   margin-bottom: 1rem;
 }
