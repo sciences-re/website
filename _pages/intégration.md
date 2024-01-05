@@ -81,5 +81,5 @@ var accountUrl = 'https://social.sciences.re/api/v1/accounts/lookup?acct=' + val
 
 Cette page web utilise les éléments suivants :
 
-- L'interface web de [https://mastofeed.com/](https://mastofeed.com/) qui n'est malheureusement pas compatible avec l'instance ( (AUTHORIZED_FETCH)[https://github.com/fenwick67/mastofeed/issues/41] ) 
+- L'interface web de [https://mastofeed.com/](https://mastofeed.com/) qui n'est malheureusement pas compatible avec l'instance ( [AUTHORIZED\_FETCH](https://github.com/fenwick67/mastofeed/issues/41) ) 
 - La librairie javascript [https://gitlab.com/idotj/mastodon-embed-feed-timeline](https://gitlab.com/idotj/mastodon-embed-feed-timeline) (GNU AGPLv3)
