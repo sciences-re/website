@@ -88,7 +88,7 @@ Plusieurs services sont pour l'instant mis à disposition, un *serveur mastodon*
 
 ## Serveur Mastodon
 
- <div class="wrapper-custom">
+<div class="wrapper-custom">
   <div class="content">
     <p>
       Un serveur mastodon, c'est-à-dire un serveur de <a href="https://fr.wikipedia.org/wiki/Microblog">microblogging</a> (un peu comme Twitter) est disponible. Il est destiné aux communautés liées à l'enseignement et à la recherche francophone, sans coloration thématique. Si vous travaillez dans une université, un labo de recherche, un lycée, une prépa, une grande école, cette instance vous ouvre ses portes !
@@ -130,6 +130,10 @@ La connexion aux différents services se fait par le biais d'un système d'authe
 Vous souhaitez rejoindre le projet, apporter un coup de main ? Venez nous en parler !
 
 Pour cela, il est possible d'utiliser l'adresse email [contact@sciences.re](mailto:contact@sciences.re) ou venir discuter sur un chat en temps réel (qui n'est pas hébergé par Sciences.Re), [accessible à cette adresse](https://kiwiirc.com/nextclient/irc.ulminfo.fr:+6666/#sciences.re).
+
+Il est aussi possible de nous contacter directement sur Mastodon, à l'adresse [@contact@sciences.re](https://social.sciences.re/@contact) :
+
+<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="100%" height="500" src="https://sciences.re/flux.html?timeline_type=profile&user_id=109364174442807118&profile_name=@contact&hide_reblog=true&hide_replies=true"></iframe>
 
 # Actualités
 

@@ -6,7 +6,7 @@ permalink: /intégration/
 Vous souhaitez intégrer les messages de votre compte Mastodon à un site web externe ? Une possibilité est d'utiliser le formulaire ci-dessous. <br/><br/>
 Une autre possibilté est d'utiliser un lecteur de flux RSS, en utilisant l'URL de votre profil et en lui ajoutant ".rss" e.g <a href="https://sociael.sciences.re/@contact.rss">https://social.sciences.re/@contact.rss</a>
 <br/><br/>
-
+<b>Note :</b> Ce service récupère les données depuis Sciences&middot;Re ! Il n'affiche donc que les messages « connus » de la part de l'instance, et est à destination des personnes utilisant l'instance. Si vous n'avez pas de compte sur Sciences&middot;Re, utilisez plutôt <a href="https://mastofeed.com/">mastofeed</a>.
 
 <form action="javascript:genUrl()">
 <label>Nom d'utilisateur :<input required type="text" id="usernamein" placeholder="contact"
