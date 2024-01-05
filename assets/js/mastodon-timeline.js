@@ -66,7 +66,7 @@ window.addEventListener("load", () => {
     text_max_lines: "0",
 
     // Customize the text of the link pointing to the Mastodon page (appears after the last toot)
-    link_see_more: "Voir plus de messages sur Sciences·Re",
+    link_see_more: "Voir plus de messages sur Sciences&middot;Re",
   });
 });
 
