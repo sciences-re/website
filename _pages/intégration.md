@@ -4,13 +4,13 @@ permalink: /intégration/
 ---
 
 Vous souhaitez intégrer les messages de votre compte Mastodon à un site web externe ? Une possibilité est d'utiliser le formulaire ci-dessous. <br/><br/>
-Une autre possibilté est d'utiliser un lecteur de flux RSS, en utilisant l'URL de votre profil et en lui ajoutant ".rss" e.g <a href="https://sociael.sciences.re/@rgrunblatt.rss">https://social.sciences.re/@rgrunblatt.rss</a>
+Une autre possibilté est d'utiliser un lecteur de flux RSS, en utilisant l'URL de votre profil et en lui ajoutant ".rss" e.g <a href="https://sociael.sciences.re/@contact.rss">https://social.sciences.re/@contact.rss</a>
 <br/><br/>
 
 
 <form action="javascript:genUrl()">
-<label>Nom d'utilisateur :<input required type="text" id="usernamein" placeholder="rgrunblatt"
-        oninvalid="this.setCustomValidity('Insérer votre nom d\'utilisateur. Example: rgrunblatt')"
+<label>Nom d'utilisateur :<input required type="text" id="usernamein" placeholder="contact"
+        oninvalid="this.setCustomValidity('Insérer votre nom d\'utilisateur. Example: contact')"
         oninput="this.setCustomValidity('')"></label>
 <br>
 <label>Largeur (px):<input required type="number" id="width" value="800"
@@ -37,7 +37,7 @@ Une autre possibilté est d'utiliser un lecteur de flux RSS, en utilisant l'URL 
 
 <div class="iframe-contain">
 
-<iframe id="frame" allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="800" height="300" src="/flux.html?timeline_type=profile&user_id=109262597646715831&profile_name=@rgrunblatt"></iframe>
+<iframe id="frame" allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="800" height="300" src="/flux.html?timeline_type=profile&user_id=109364174442807118&profile_name=@contact"></iframe>
 
 </div>
 
