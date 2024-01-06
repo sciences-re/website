@@ -133,7 +133,7 @@ Pour cela, il est possible d'utiliser l'adresse email [contact@sciences.re](mail
 
 Il est aussi possible de nous contacter directement sur Mastodon, à l'adresse [@contact@sciences.re](https://social.sciences.re/@contact) :
 
-<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="100%" height="500" src="https://sciences.re/flux.html?timeline_type=profile&user_id=109364174442807118&profile_name=@contact&hide_reblog=true&hide_replies=true"></iframe>
+<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="100%" height="750" src="https://sciences.re/flux.html?timeline_type=profile&user_id=109364174442807118&profile_name=@contact&hide_reblog=true&hide_replies=true&hide_header=false"></iframe>
 
 # Actualités
 
