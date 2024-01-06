@@ -25,6 +25,8 @@ Une autre possibilté est d'utiliser un lecteur de flux RSS, en utilisant l'URL 
 <br>
 <label>Cacher les boosts ? <input type="checkbox" id="hide_reblog" checked="checked" style="display: inline;"></label>
 <br>
+<label>Cacher l'entête? <input type="checkbox" id="hide_header" checked="checked" style="display: inline;"></label>
+<br>
 <br>
 <button value="generate">Générer</button>
 </form>
@@ -61,8 +63,9 @@ var accountUrl = 'https://social.sciences.re/api/v1/accounts/lookup?acct=' + val
 
             var hide_reblog = document.getElementById('hide_reblog').checked.toString();
             var hide_replies = document.getElementById('hide_replies').checked.toString();
+            var hide_header = document.getElementById('hide_header').checked.toString();
 
-            var iframeUrl = "https://sciences.re/flux.html?timeline_type=profile" + "&user_id=" + user_id + '&profile_name=@' + val('usernamein') + '&hide_reblog=' + hide_reblog + '&hide_replies=' + hide_replies;
+            var iframeUrl = "/flux.html?timeline_type=profile" + "&user_id=" + user_id + '&profile_name=@' + val('usernamein') + '&hide_reblog=' + hide_reblog + '&hide_replies=' + hide_replies + '&hide_header=' + hide_header;
 
             document.getElementById('result').value = '<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="' + val('width') + '" height="' + val('height') + '" src="' + iframeUrl + '"></iframe>';
 

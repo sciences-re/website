@@ -44,11 +44,14 @@ window.addEventListener("load", () => {
     // Hide unlisted toots. Default: don't hide
     hide_unlisted: urlParams.get("hide_unlisted"),
 
-    // Hide boosted toots. Default: don't hide
+    // Hide boosted toots. Default: hide
     hide_reblog: urlParams.get("hide_reblog"),
 
-    // Hide replies toots. Default: don't hide
+    // Hide replies toots. Default: hide
     hide_replies: urlParams.get("hide_replies"),
+
+    // Hide header toots. Default: hide
+    hide_header: urlParams.get("hide_header"),
 
     // Hide preview card if toot contains a link, photo or video from a URL. Default: don't hide
     hide_preview_link: true,
@@ -93,7 +96,9 @@ const MastodonApi = function (params_) {
   this.HIDE_REBLOG =
     ((typeof params_.hide_reblog !== "undefined") && params_.hide_reblog !== null) ? (params_.hide_reblog === "true") : true;
   this.HIDE_REPLIES =
-    ((typeof params_.hide_replies !== "undefined") && params_.hide_replies !== null) ? (params_.hide_replies === "true"): true;
+    ((typeof params_.hide_replies !== "undefined") && params_.hide_replies !== null) ? (params_.hide_replies === "true") : true;
+  this.HIDE_HEADER =
+    ((typeof params_.hide_header !== "undefined") && params_.hide_header !== null) ? (params_.hide_header === "true") : true;
   this.HIDE_PREVIEW_LINK =
     typeof params_.hide_preview_link !== "undefined"
       ? params_.hide_preview_link
@@ -126,6 +131,21 @@ MastodonApi.prototype.buildTimeline = async function () {
 
   // Empty the <div> container
   this.mtBodyContainer.innerHTML = "";
+  if (this.TIMELINE_TYPE === "profile" && !this.HIDE_HEADER) {
+    this.mtBodyContainer.innerHTML = `<div class="header" style="background-image:url(${this.FETCHED_DATA.profile.header})">
+<a class="header-left" target="_top" href="${this.FETCHED_DATA.profile.url}">
+<img class="avatar circular" src="${this.FETCHED_DATA.profile.avatar}">
+</a>
+<div class="description header-right">
+<a class="header-title" target="_top" href="${this.FETCHED_DATA.profile.url}">
+${this.FETCHED_DATA.profile.display_name}
+</a>
+<p>${this.FETCHED_DATA.profile.note}</p>
+</div>
+</div>`;
+  }
+
+  console.log(this.FETCHED_DATA);
 
   for (let i in this.FETCHED_DATA.timeline) {
     // First filter (Public / Unlisted)
@@ -295,13 +315,13 @@ MastodonApi.prototype.getTimelineData = async function () {
       if (!response.ok) {
         throw new Error(
           "Failed to fetch the following URL: " +
-            url +
-            "<hr>" +
-            "Error status: " +
-            response.status +
-            "<hr>" +
-            "Error message: " +
-            response.statusText
+          url +
+          "<hr>" +
+          "Error status: " +
+          response.status +
+          "<hr>" +
+          "Error message: " +
+          response.statusText
         );
       }
 
@@ -313,6 +333,7 @@ MastodonApi.prototype.getTimelineData = async function () {
     let urls = {};
     if (this.TIMELINE_TYPE === "profile") {
       urls.timeline = `${this.INSTANCE_URL}/api/v1/accounts/${this.USER_ID}/statuses?limit=${this.TOOTS_LIMIT}`;
+      urls.profile = `${this.INSTANCE_URL}/api/v1/accounts/lookup?acct=${this.PROFILE_NAME}`;
     } else if (this.TIMELINE_TYPE === "hashtag") {
       urls.timeline = `${this.INSTANCE_URL}/api/v1/timelines/tag/${this.HASHTAG_NAME}?limit=${this.TOOTS_LIMIT}`;
     } else if (this.TIMELINE_TYPE === "local") {
@@ -761,27 +782,27 @@ MastodonApi.prototype.placePreviewLink = function (c) {
     '" class="mt-toot-preview" target="_blank" rel="noopener noreferrer">' +
     (c.image
       ? '<div class="mt-toot-preview-image ' +
-        this.SPINNER_CLASS +
-        '"><img src="' +
-        c.image +
-        '" alt="' +
-        this.escapeHtml(c.image_description) +
-        '" loading="lazy" /></div>'
+      this.SPINNER_CLASS +
+      '"><img src="' +
+      c.image +
+      '" alt="' +
+      this.escapeHtml(c.image_description) +
+      '" loading="lazy" /></div>'
       : '<div class="mt-toot-preview-noImage">📄</div>') +
     "</div>" +
     '<div class="mt-toot-preview-content">' +
     (c.provider_name
       ? '<span class="mt-toot-preview-provider">' +
-        this.parseHTMLstring(c.provider_name) +
-        "</span>"
+      this.parseHTMLstring(c.provider_name) +
+      "</span>"
       : "") +
     '<span class="mt-toot-preview-title">' +
     c.title +
     "</span>" +
     (c.author_name
       ? '<span class="mt-toot-preview-author">' +
-        this.parseHTMLstring(c.author_name) +
-        "</span>"
+      this.parseHTMLstring(c.author_name) +
+      "</span>"
       : "") +
     "</div>" +
     "</a>";
@@ -801,7 +822,7 @@ MastodonApi.prototype.formatDate = function (d) {
     month: 'long',
     day: 'numeric',
   };
-  
+
   const date = new Date(d);
   return date.toLocaleDateString(undefined, options);
 };
