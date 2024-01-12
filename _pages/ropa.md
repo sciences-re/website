@@ -12,10 +12,10 @@ Last updated: {{ page.last_modified_at | date : "%d/%m/%Y à %H:%M" }}.
 
 ## Actors involved in the data processing
 
-### Sciences.Re
+### Sciences·Re
 
 - Actor Type: Controller, Recipient
-- Name: Sciences.Re
+- Name: Sciences·Re
 - Form: De facto Association
 - Additional Information:
     - Representative:
@@ -60,7 +60,7 @@ Hetzner Online GmbH is our server host and backup host.
 - **Data Category:** Identity Data
 - **Concerned Data:** For each account creation, the username, the email and pseudonyms used, and the data enabling you to check or change your password and 2FA data, in their last updated version.
 - **Legal Basis:** Legal Obligation, per [« Article 2 du décret n° 2021-1362 du 20 octobre 2021 »](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000044228926) and [« Article 3 du décret n° 2021-1362 du 20 octobre 2021 »](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000044228928), as we effectively process these informations for the contractual necessity and for the access to the services.
-- **Recipients:** Sciences.Re, Hetzner Online GmbH
+- **Recipients:** Sciences·Re, Hetzner Online GmbH
 - **Preservation Length:** 5 years from the closing of the account / end of the contract for the email (article 2), or 1 year from the closing of the account / end of the contract for the email for the rest of the data.
 
 #### Content Creation
@@ -68,7 +68,7 @@ Hetzner Online GmbH is our server host and backup host.
 - **Data Category:** Connection Data
 - **Concerned Data:** For each content creation operation, the identifier of the connection at the origin of the communication and the used protocols for the connection and transfer of content.
 - **Legal Basis:** Legal Obligation, per [« Article 5 du décret n° 2021-1362 du 20 octobre 2021 »](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000044228932), as we effectively process these informations for the contractual necessity and for the access to the services.
-- **Recipients:** Sciences.Re, Hetzner Online GmbH
+- **Recipients:** Sciences·Re, Hetzner Online GmbH
 - **Preservation Length:** 1 year from the day of the connection or creation of the content
 
 #### Content Creation (bis)
@@ -76,7 +76,7 @@ Hetzner Online GmbH is our server host and backup host.
 - **Data Category:** Connection Data
 - **Concerned Data:** For each content creation operation, the identifier assigned by the information system to the content object, the nature of the operation (creation, deletion, modification), dates and time of the operation, identifier used by the author of the operation when provided by the author of the operation.
 - **Legal Basis:** Legal Obligation, per [« Article 6 du décret n° 2021-1362 du 20 octobre 2021 »](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044230065) and [« Article 1 du décret n° 2022-1327 du 17 octobre 2022 »](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000046437500), as we effectively process these informations for the contractual necessity and for the access to the services.
-- **Recipients:** Sciences.Re, Hetzner Online GmbH
+- **Recipients:** Sciences·Re, Hetzner Online GmbH
 - **Preservation Length:** 1 year from the day of the connection or creation of the content
 
 ### Other kind of processing
@@ -92,7 +92,7 @@ To use our services, you must have an account, and to create an account you must
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak, Fediverse peers, Public
+- **Recipients:** Sciences·Re, Hetzner Online GmbH, Infomaniak, Fediverse peers, Public
 - **Visibility:** Public
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -105,7 +105,7 @@ To use our services, you must have an account, and to create an account you must
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** No
-- **Recipients:** Sciences.Re, Hetzner Online GmbH
+- **Recipients:** Sciences·Re, Hetzner Online GmbH
 - **Visibility:** Private
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -119,7 +119,7 @@ To use our services, you must have an account, and to create an account you must
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** No
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak
+- **Recipients:** Sciences·Re, Hetzner Online GmbH, Infomaniak
 - **Visibility:** Private
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -137,7 +137,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Fediverse peers, Public
+- **Recipients:** Sciences·Re, Hetzner Online GmbH, Fediverse peers, Public
 - **Visibility:** Public
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -151,7 +151,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Fediverse peers, Public
+- **Recipients:** Sciences·Re, Hetzner Online GmbH, Fediverse peers, Public
 - **Visibility:** Public
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -166,7 +166,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** No
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak
+- **Recipients:** Sciences·Re, Hetzner Online GmbH, Infomaniak
 - **Visibility:** Private
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -178,7 +178,7 @@ When you use our services, we process the following information to provide our s
 - **Data Category:** Application Information
 - **Concerned Data:** Name, Website, Redirection URLs, Permissions, Secrets, Token, ID of the Applications
 - **Legal Basis:** Contractual necessity
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak, Fediverse Peers, Public
+- **Recipients:** Sciences·Re, Hetzner Online GmbH, Infomaniak, Fediverse Peers, Public
 - **Visibility:** Public or Limited, depending on the use of the Application
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
@@ -194,7 +194,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak, Public, Fediverse peers
+- **Recipients:** Sciences·Re, Hetzner Online GmbH, Infomaniak, Public, Fediverse peers
 - **Visibility:** Private, but the Name of the application used to post messages has the same visibility as the messages
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -208,7 +208,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** No
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak
+- **Recipients:** Sciences·Re, Hetzner Online GmbH, Infomaniak
 - **Visibility:** Private
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -222,7 +222,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Infomaniak, Hetzner Online GmbH, Fediverse peers, Public
+- **Recipients:** Sciences·Re, Infomaniak, Hetzner Online GmbH, Fediverse peers, Public
 - **Visibility:** Public
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -236,7 +236,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Infomaniak, Hetzner Online GmbH, Fediverse peers, Public
+- **Recipients:** Sciences·Re, Infomaniak, Hetzner Online GmbH, Fediverse peers, Public
 - **Visibility:** Limited: Public, but does not appear in federated or timeline feeds
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -250,7 +250,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Infomaniak, Hetzner Online GmbH, Fediverse peers of the followers
+- **Recipients:** Sciences·Re, Infomaniak, Hetzner Online GmbH, Fediverse peers of the followers
 - **Visibility:** Limited: Only visible to your followers
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -264,7 +264,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Fediverse peers of the recipients
+- **Recipients:** Sciences·Re, Hetzner Online GmbH, Fediverse peers of the recipients
 - **Visibility:** Limited: Only visible to the choosed recipients
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -278,7 +278,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Fediverse peers, Public
+- **Recipients:** Sciences·Re, Hetzner Online GmbH, Fediverse peers, Public
 - **Visibility:** Public for anyone with the link to the media, otherwise has the same visibility as the message to which it is attached
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -293,7 +293,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak, Fediverse peers, Public
+- **Recipients:** Sciences·Re, Hetzner Online GmbH, Infomaniak, Fediverse peers, Public
 - **Visibility:** Public or Private, depending on the user preferences. The followers total count is always public.
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -307,7 +307,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak, Fediverse peers, Public
+- **Recipients:** Sciences·Re, Hetzner Online GmbH, Infomaniak, Fediverse peers, Public
 - **Visibility:** Public or Private, depending on the user preferences. The following total count is always public. Followed users are notified when you follow them.
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -319,7 +319,7 @@ When you use our services, we process the following information to provide our s
 - **Data Category:** Private Collections
 - **Concerned Data:** List Name, List Members Account
 - **Legal Basis:** Contractual necessity
-- **Recipients:** Sciences.Re, Hetzner Online GmbH
+- **Recipients:** Sciences·Re, Hetzner Online GmbH
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** No
 - **Visibility:** Private
@@ -335,7 +335,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** No
-- **Recipients:** Sciences.Re, Hetzner Online GmbH
+- **Recipients:** Sciences·Re, Hetzner Online GmbH
 - **Visibility:** Private
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -349,7 +349,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Fediverse peer of the favourited message
+- **Recipients:** Sciences·Re, Hetzner Online GmbH, Fediverse peer of the favourited message
 - **Visibility:** Limited: Favourites are private, but each author whose message is favourited receives a notification about who favourited the message. The favourite total count on a message has the same visibility as the message.
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -363,7 +363,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** Yes, through federation or public data
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak, Fediverse peers
+- **Recipients:** Sciences·Re, Hetzner Online GmbH, Infomaniak, Fediverse peers
 - **Visibility:** Public: Boosted messages are public. Each author whose message is boosted receives a notification about who bosted the message. The boost total count on a message has the same visibility as the message.
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -377,7 +377,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** No
-- **Recipients:** Sciences.Re, Hetzner Online GmbH
+- **Recipients:** Sciences·Re, Hetzner Online GmbH
 - **Visibility:** Private: Notes you may leave on other local or remote users profiles are strictly personal notes, only visible to you.
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -392,7 +392,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** No
-- **Recipients:** Sciences.Re, Hetzner Online GmbH, Infomaniak
+- **Recipients:** Sciences·Re, Hetzner Online GmbH, Infomaniak
 - **Visibility:** Private
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -406,7 +406,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** No
-- **Recipients:** Sciences.Re, Hetzner Online GmbH
+- **Recipients:** Sciences·Re, Hetzner Online GmbH
 - **Visibility:** Only available to privileged accounts (admins and moderators)
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -420,7 +420,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** No
-- **Recipients:** Sciences.Re, Hetzner Online GmbH
+- **Recipients:** Sciences·Re, Hetzner Online GmbH
 - **Visibility:** Only available to privileged accounts (admins and moderators)
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases
@@ -434,7 +434,7 @@ When you use our services, we process the following information to provide our s
 - **Legal Basis:** Contractual necessity
 - **Purposes of the processing:** Provide access to the services
 - **Transfers of data to a country outside the European Union or to an organisation:** No
-- **Recipients:** Sciences.Re, Hetzner Online GmbH
+- **Recipients:** Sciences·Re, Hetzner Online GmbH
 - **Visibility:** Only available to privileged accounts (admins and moderators)
 - **Preservation Format and Length:**
     - Until the end of the contract, in active databases

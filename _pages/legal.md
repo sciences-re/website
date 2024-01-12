@@ -4,11 +4,11 @@ date : 2022-11-01 22:55:00
 permalink : /mentions-légales/
 ---
 
-# Conditions Générales d'Utilisation des services Sciences.Re
+# Conditions Générales d'Utilisation des services Sciences·Re
 
 ## Préambule
 
-Les présentes conditions d'utilisation s'appliquent aux services en ligne fournis par Sciences.Re, dont la liste actuelle est :
+Les présentes conditions d'utilisation s'appliquent aux services en ligne fournis par Sciences·Re, dont la liste actuelle est :
 
 - **Site web** : [https://sciences.re/](https://sciences.re/)
 - **Serveur Mastodon** : [https://social.sciences.re/](https://social.sciences.re/)
@@ -17,7 +17,7 @@ En utilisant ces services, vous reconnaissez être lié par les présentes condi
 
 # Utilisation des services
 
-Pour utiliser les services, vous acceptez de signer un contrat vous liant à Sciences.Re. Pour utiliser les services, vous devez être âgé d’au moins 16 ans. Si vous acceptez les présentes conditions et que vous utilisez les services au nom d’une société, organisation ou autre entité juridique, vous garantissez être autorisé à le faire, en particulier vous déclarez avoir l’autorité de lier cette entité à ces conditions d'utilisation.
+Pour utiliser les services, vous acceptez de signer un contrat vous liant à Sciences·Re. Pour utiliser les services, vous devez être âgé d’au moins 16 ans. Si vous acceptez les présentes conditions et que vous utilisez les services au nom d’une société, organisation ou autre entité juridique, vous garantissez être autorisé à le faire, en particulier vous déclarez avoir l’autorité de lier cette entité à ces conditions d'utilisation.
 
 Notre [registre des activités de traitement](/ropa/) décrit comment nous traitons les informations que vous nous fournissez lorsque vous utilisez nos services. En utilisant les services, vous consentez à ce que nous collections et utilisions, selon les termes de ce registre des activités de traitement, ces informations, y compris dans les cas où ces informations seraient transéfées à l'extérieur de l'Union Européenne dans les conditions mentionnées dans le registre.
 
@@ -45,7 +45,7 @@ Nous ne garantissons pas que :
 Vous êtes responsable de l’utilisation que vous faites des services et de tout contenu que vous fournissez, y compris de la conformité aux lois, règles et réglementations en vigueur. Le contenu présent sur ces services relève de la seule responsabilité de son créateur, et dans la mesure où ne nous ne contrôlons pas nécessairement l'ensemble du contenu publié sur nos services, nous ne pouvons garantir leur véracité, fiabilité, qualité, ou le respect des règles d'utilisation de ces services. Aussi, nous nous réservons le droit de supprimer tout contenu qui ne serait pas conforme aux présentes conditions, notamment ceux décrits dans la section « Comportements inacceptables ».
 # Résiliation des présentes Conditions
 
-Vous pourrez mettre fin à votre accord légal avec Sciences.Re à tout moment en désactivant vos comptes et en cessant d’utiliser ses services. Pour désactiver votre compte Mastodon, veuillez visiter l'adresse [https://social.sciences.re/settings/delete](https://social.sciences.re/settings/delete). Si vous souhaitez savoir ce qu’il advient de vos informations, veuillez consulter notre [registre des activités de traitement](/ropa-mastodon/).
+Vous pourrez mettre fin à votre accord légal avec Sciences·Re à tout moment en désactivant vos comptes et en cessant d’utiliser ses services. Pour désactiver votre compte Mastodon, veuillez visiter l'adresse [https://social.sciences.re/settings/delete](https://social.sciences.re/settings/delete). Si vous souhaitez savoir ce qu’il advient de vos informations, veuillez consulter notre [registre des activités de traitement](/ropa-mastodon/).
 
 Nous pouvons suspendre, limiter ou résilier votre compte, et ainsi cesser de vous fournir l’ensemble ou une partie des services, à tout moment, pour un quelconque motif ou sans motif, notamment si nous avons des raisons de penser que vous avez violé les présentes conditions.
 
@@ -59,7 +59,7 @@ Concernant les données conservées en sus du fait de nos obligations légales, 
 Vous pouvez, à n’importe quel moment, modifier les informations vous concernant ou supprimer votre compte de manière définitive, et ce de manière autonome.
 # Engagements
 
-Sciences.Re s'engage à respecter les principes suivants :
+Sciences·Re s'engage à respecter les principes suivants :
 
 - Nous ne mettrons pas en place de publicité sur nos outils ;
 - Nous ne pratiquerons aucun pistage des personnes utilisant nos services ;
@@ -69,9 +69,9 @@ Sciences.Re s'engage à respecter les principes suivants :
 **Note** : Une partie de ces conditions générales d'utilisation est basée sur les [conditions générales d'utilisation de Framasoft](https://framasoft.org/fr/legals/), et sont diffusées sous licence [Creative Commons Attribution Share-Alike 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
 # Code de conduite
 
-La communauté en ligne Sciences.Re est déstinée à être un espace convivial et inclusif où toute personne peut collaborer à la construction de connaissances collectives, partager, discuter, et interagir de manière constructive. À cette fin, nous avons établi un ensemble de directives qui, selon nous, contribueront à favoriser un tel environnement. Toute personne prête à suivre ces directives est la bienvenue.
+La communauté en ligne Sciences·Re est déstinée à être un espace convivial et inclusif où toute personne peut collaborer à la construction de connaissances collectives, partager, discuter, et interagir de manière constructive. À cette fin, nous avons établi un ensemble de directives qui, selon nous, contribueront à favoriser un tel environnement. Toute personne prête à suivre ces directives est la bienvenue.
 
-Ce code de conduite s'applique à tous les espaces gérés par le projet Sciences.Re. Cela inclut le serveur mastodon, le site web, les événements officiels et tout autre espace créé par l'équipe du projet que la communauté utilise pour communiquer.
+Ce code de conduite s'applique à tous les espaces gérés par le projet Sciences·Re. Cela inclut le serveur mastodon, le site web, les événements officiels et tout autre espace créé par l'équipe du projet que la communauté utilise pour communiquer.
 
 ## Licence
 
@@ -92,7 +92,7 @@ Dans vos interactions avec les autres, veuillez faire de votre mieux pour suivre
 Les actions et comportements suivants sont jugés inacceptables :
 
 - Harcèlement d'autres utilisateurs ou utilisatrices : Cela inclut, sans s'y limiter, les menaces de toute sorte, les insultes, les blagues et le langage discriminatoires, les attentions sexuelles importunes, la publication d'informations d'identification personnelle ("doxing").
-- Perturbation délibérée : trolling, spam, flaming, baiting, recherche d'attention, distribution de malware, tout type d'attaque contre l'infrastructure informatique du projet Sciences.Re ou de ses organisations collaboratrices.
+- Perturbation délibérée : trolling, spam, flaming, baiting, recherche d'attention, distribution de malware, tout type d'attaque contre l'infrastructure informatique du projet Sciences·Re ou de ses organisations collaboratrices.
 
 ## Conséquences d'un comportement inacceptable
 

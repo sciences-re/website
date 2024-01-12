@@ -1,9 +1,9 @@
 ---
-title: "Sciences.Re"
+title: "Sciences·Re"
 date: 2021-02-14 11:10:46 +0100
 permalink: /
 excerpt: >
-  Sciences.Re souhaite offrir un espace de partage, de collaboration et de discussion en ligne pour la communauté scientifique francophone. 
+  Sciences·Re souhaite offrir un espace de partage, de collaboration et de discussion en ligne pour la communauté scientifique francophone. 
 feature_row:
   - image_path: /assets/images/expérimenter.webp
     alt: "… partager"
@@ -129,7 +129,7 @@ La connexion aux différents services se fait par le biais d'un système d'authe
 
 Vous souhaitez rejoindre le projet, apporter un coup de main ? Venez nous en parler !
 
-Pour cela, il est possible d'utiliser l'adresse email [contact@sciences.re](mailto:contact@sciences.re) ou venir discuter sur un chat en temps réel (qui n'est pas hébergé par Sciences.Re), [accessible à cette adresse](https://kiwiirc.com/nextclient/irc.ulminfo.fr:+6666/#sciences.re).
+Pour cela, il est possible d'utiliser l'adresse email [contact@sciences.re](mailto:contact@sciences.re) ou venir discuter sur un chat en temps réel (qui n'est pas hébergé par Sciences·Re), [accessible à cette adresse](https://kiwiirc.com/nextclient/irc.ulminfo.fr:+6666/#sciences.re).
 
 Il est aussi possible de nous contacter directement sur Mastodon, à l'adresse [@contact@sciences.re](https://social.sciences.re/@contact) :
 

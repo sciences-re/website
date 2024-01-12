@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sciences.Re
+title: Sciences·Re
 email: contact@sciences.re
 description: >-
-  Sciences.Re propose un un espace de partage, de collaboration et de discussion en ligne pour la communauté scientifique francophone.
+  Sciences·Re propose un un espace de partage, de collaboration et de discussion en ligne pour la communauté scientifique francophone.
 baseurl: ""
 url: "https://sciences.re"
 twitter_username: jekyllrb
